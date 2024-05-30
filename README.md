@@ -17,9 +17,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/aryan1403?label=Follow&style=social)](https://x.com/i/flow/login?redirect_after_login=%2Fintent%2Ffollow)  
 [![GitHub followers](https://img.shields.io/github/followers/mohanraj-e29?label=Follow&style=social)](https://camo.githubusercontent.com/3aeeb7dae15da2e0769ead378c754e7640b73815275dee1f3d68b8ca9ef8b0a5/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f617279616e313430333f6c6162656c3d466f6c6c6f77267374796c653d736f6369616c)
 
-### My GitHub Data
-
-📊 [My GitHub Data](https://camo.githubusercontent.com/89cee19ca62c04c2858e6f227dd3d51ee3e4835978beb71f079a00b26c2b4046/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966)
+(https://emojicdn.elk.sh/🐱‍🚀) ### My GitHub Data
 
 
 #### Mohanraj's GitHub Stats
