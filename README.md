@@ -19,21 +19,11 @@
 #### Mohanraj's GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohanraj-e29&show_icons=true)
 
-- **Total Stars Earned:** 144
-- **Total Commits (2024):** 75
-- **Total PRs:** 38
-- **Total Issues:** 9
-- **Contributed to (last year):** 1
 
 #### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohanraj-e29&layout=compact)
 
-- **Python:** 67.68%
-- **Java:** 19.87%
-- **JavaScript:** 7.22%
-- **HTML:** 2.16%
-- **CSS:** 1.61%
-- **TypeScript:** 1.46%
+
 
 #### Visitor Badge
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=mohanraj-e29.mohanraj-e29)
