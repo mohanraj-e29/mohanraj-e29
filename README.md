@@ -1,10 +1,11 @@
 # Hi, I'm Mohanraj
 
 💫 Coder  
-📫 Connect with Me  
+📫 Connect with Me   
 🌟 Twitter Follow  
-🐱 GitHub followers  
-👁️‍🗨️ Profile views
+👥 Connect with Me on LinkedIn  
+📧 Email Me  
+
 
 ---
 
